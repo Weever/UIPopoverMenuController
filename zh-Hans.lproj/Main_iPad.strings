@@ -1,0 +1,24 @@
+
+/* Class = "IBUINavigationItem"; title = "Main"; ObjectID = "J6c-cx-k5a"; */
+"J6c-cx-k5a.title" = "Main";
+
+/* Class = "IBUIButton"; normalTitle = "列表"; ObjectID = "O8X-VG-afa"; */
+"O8X-VG-afa.normalTitle" = "列表";
+
+/* Class = "IBUIButton"; normalTitle = "时间"; ObjectID = "Q0i-J8-oz7"; */
+"Q0i-J8-oz7.normalTitle" = "时间";
+
+/* Class = "IBUITextField"; placeholder = "请选择数据"; ObjectID = "adz-pQ-aVm"; */
+"adz-pQ-aVm.placeholder" = "请选择数据";
+
+/* Class = "IBUIBarButtonItem"; title = "时间"; ObjectID = "b3I-VB-mUx"; */
+"b3I-VB-mUx.title" = "时间";
+
+/* Class = "IBUITextField"; placeholder = "请选择时间"; ObjectID = "chk-Tg-55J"; */
+"chk-Tg-55J.placeholder" = "请选择时间";
+
+/* Class = "IBUIBarButtonItem"; title = "列表"; ObjectID = "omQ-aM-vBW"; */
+"omQ-aM-vBW.title" = "列表";
+
+/* Class = "IBUILabel"; text = "结果"; ObjectID = "p6m-tL-ykZ"; */
+"p6m-tL-ykZ.text" = "结果";
